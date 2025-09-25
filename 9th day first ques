@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+    int n,fact,i;
+    printf("Write the number: ");
+    scanf("%d", n);
+
+    fact = 1;
+        fact*= i;
+
+    for(i=0;  i<=n; i++){
+    printf("%d", fact);
+    }
+    return 0;
+}
+
+
